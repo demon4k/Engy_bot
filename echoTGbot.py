@@ -14,4 +14,4 @@ def main(message):
 if __name__ == "__main__":
     bot.polling()
 
-# Hello world
+# velikiy love forever
